@@ -78,15 +78,9 @@ Você pode acessá-lo diretamente com os seguintes logins de teste:
 Email: novato@gmail.com<br>
 Senha: novato123
 
-markdown
-Copiar código
-
 ### 👨‍🏫 **Buddy (Acompanhante)**
 Email: buddy@firststep.com<br>
 Senha: 123456
-
-yaml
-Copiar código
 
 Acesse: 👉 [https://firststep-challenge.vercel.app](https://firststep-challenge.vercel.app)
 
