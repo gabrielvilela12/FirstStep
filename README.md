@@ -102,26 +102,6 @@ Acesse: 👉 [https://firststep-challenge.vercel.app](https://firststep-challeng
 
 ---
 
-## 📈 Estrutura do Projeto
-
-📦 FirstStep
-├── src/
-│ ├── components/ # Componentes reutilizáveis
-│ ├── pages/ # Páginas do sistema
-│ ├── hooks/ # Hooks personalizados
-│ ├── data/ # Mock de dados (JSON)
-│ ├── utils/ # Funções auxiliares
-│ ├── styles/ # Estilos globais
-│ └── App.tsx # Componente principal
-├── public/
-├── package.json
-└── README.md
-
-yaml
-Copiar código
-
----
-
 ## 🎯 Objetivo do Projeto
 
 Facilitar a adaptação de novos colaboradores da **VIVO**, oferecendo:
